@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Home.unity
+    guid: 3ffcdf524553db3419ad81bfdc5b868a
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 0
+    path: Assets/Scenes/LearnProBuilder.unity
+    guid: a3ff870b6eab53947adf14cf05bd58be
+  - enabled: 0
+    path: Assets/Scenes/Island.unity
+    guid: 60253965244c2fb41bbc7f7ba814ed99
+  - enabled: 1
+    path: Assets/Scenes/Final_HomeScene.unity
+    guid: 0dcb2631ebd299c42bd25854176f2ea3
+  - enabled: 1
+    path: Assets/Scenes/Final_IslandScene.unity
+    guid: f8ca9637ac30d4c46836175146d435a3
+  - enabled: 1
+    path: Assets/Scenes/Final_ChamberScene.unity
+    guid: ba9c3e5f526431c4fba258a1eaeeca2e
+  - enabled: 1
+    path: Assets/Scenes/Final_CageRoomScene.unity
+    guid: bdbaa5017a101504cb5d9b74dfc55b3a
+  m_configObjects:
+    com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: 29c72b71e29240141b782a15c8d6c6c5, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 27de3c4c678ab5a4380d435b814e89d3, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5f8f54dcf4f56cd4380f1109865d104b, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cf9d4630776834b4495fc36707984106, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4149e62cc59cd724dac96fa9a79faf1d, type: 2}
+  m_UseUCBPForAssetBundles: 0
