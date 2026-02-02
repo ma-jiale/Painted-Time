@@ -59,10 +59,11 @@
 
 ## 安装与运行
 1. Clone 本仓库。
-2. 使用 Unity 6.3 及以上版本打开项目。
-3. 确保已安装[PICO Unity OpenXR SDK](https://developer-cn.picoxr.com/document/unity-openxr)和XR Interaction Toolkit。
-4. 使用USB数据线连接 PICO VR 头显(作者使用的是PICO4 Ultra) 和电脑，并在头显中打开USB调试
-5. 在Unity中点击Build And Run
+2. [下载部分超过Github文件大小限制的美术资产](https://drive.google.com/drive/folders/1N9kjdc1L3IxygGVVFBjCAjFa4PyOeORn?usp=drive_link)
+3. 使用 Unity 6.3 及以上版本打开项目。
+4. 确保已安装[PICO Unity OpenXR SDK](https://developer-cn.picoxr.com/document/unity-openxr)和XR Interaction Toolkit。
+5. 使用USB数据线连接 PICO VR 头显(作者使用的是PICO4 Ultra) 和电脑，并在头显中打开USB调试
+6. 在Unity中点击Build And Run
 
 ---
 *Created by Jiale Ma and Qi Zhang*
